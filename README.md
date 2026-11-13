@@ -1,7 +1,5 @@
-# Computer Science Teaching Demonstration
+# Scratchpad
 
-Please go to this link: https://pxr687.github.io/teaching_demo/
+This repository is for you to use so that you can write/edit/experiment with Python code whenever you want, in your web browser.
 
-...then go to this file, to use the demo interactively:
-
-![](https://raw.githubusercontent.com/pxr687/teaching_demo/refs/heads/main/content/data/run_whole_page.png)
+Please go to this link: https://pxr687.github.io/scratchpad
